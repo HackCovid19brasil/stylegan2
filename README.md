@@ -1,4 +1,7 @@
 ## DULI2 &mdash; Official Detector de Lesões Por Imagens TensorFlow Implementation
+
+
+#### Notebook:  https://colab.research.google.com/drive/1IIKTPCw7Zhq8e-ySH7k6K6MEuJHhgWEp?usp=sharing
 ### Fodha &mdash; Official Full Open Dataset Health (human & animal) TensorFlow Implementation
 ### Fodha1 &mdash; Official Full Open Disease Health (human & animal) Detection TensorFlow Implementation
 ### Queremos crer, que; a combinação de diversos datasets de pessoas normais + dataset de uma patologias vão produzir indices patológicos diferentes indicando a tendência de evolução patológica de uma pessoa normal, portanto, detectável a tempo de produzir intervenção preventiva.
