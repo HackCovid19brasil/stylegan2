@@ -1,3 +1,12 @@
+## DULI2 &mdash; Official Detector de Lesões Por Imagens TensorFlow Implementation
+### Fodha &mdash; Official Full Open Dataset Health (human & animal) TensorFlow Implementation
+### Fodha1 &mdash; Official Full Open Disease Health (human & animal) Detection TensorFlow Implementation
+### Queremos crer, que; a combinação de diversos datasets de pessoas normais + dataset de uma patologias vão produzir indices patológicos diferentes indicando a tendência de evolução patológica de uma pessoa normal, portanto, detectável a tempo de produzir intervenção preventiva.
+### Benefícios: Achar um tumor cancerígeno de mama pequeno é crucial para sobrevivência. Se você acha um tumor quando é menor que um centímetro, a sobrevivência ultrapassa os 90%.  Mamografias encontram mais de 80% dos tumores em seios gordurosos, mas não mais que 40% em seios extremamente densos, contornável com emprego de tecnologias complementares:  tomossintese ou ultrasom, mas...estamos de olho em sobrevivência de 100%, o que implica detectar tumores menores de um centímetro, ou detecta-lo antes que se forme!! simples assim:
+### Inspiração: Deborah Rodes https://www.ted.com/talks/deborah_rhodes_a_test_that_finds_3x_more_breast_tumors_and_why_it_s_not_available_to_you?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare   
+### Jack Andraka https://www.ted.com/speakers/jack_andraka
+
+
 ## StyleGAN2 &mdash; Official TensorFlow Implementation
 
 ![Teaser image](./docs/stylegan2-teaser-1024x256.png)
